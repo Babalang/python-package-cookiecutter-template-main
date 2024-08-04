@@ -1,11 +1,11 @@
 {
-    "full_name": "Amelien Deshams",
-    "email": "a.deshams+git@slmail.me",
+    "full_name": "Bastian Langouët",
+    "email": "langouetbastian@gmail.com",
     "project_name": "Awesome Project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "project_short_description": "A super duper awesome project!",
-    "repository_url": "https://gitlab.com/ameliend/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "documentation_url": "https://ameliend.gitlab.io/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "repository_url": "https://github.com/Babalang/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "documentation_url": "https://github.com/Babalang/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "version": "0.0.1",
     "open_source_license": [
         "MIT license",
