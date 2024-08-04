@@ -1,0 +1,19 @@
+{
+    "full_name": "Amelien Deshams",
+    "email": "a.deshams+git@slmail.me",
+    "project_name": "Awesome Project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "A super duper awesome project!",
+    "repository_url": "https://gitlab.com/ameliend/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "documentation_url": "https://ameliend.gitlab.io/{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+    "version": "0.0.1",
+    "open_source_license": [
+        "MIT license",
+        "BSD license",
+        "ISC license",
+        "Apache Software License 2.0",
+        "GNU General Public License v3",
+        "Not open source"
+    ],
+    "_gitignore": ".gitignore"
+}
